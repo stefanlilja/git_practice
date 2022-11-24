@@ -1,6 +1,6 @@
 print('hello world')
 print('goodbye!')
 
-f= open("textfil.txt",'a')
+f= open("textfile.txt",'w')
 f.write("some text")
 f.close()
